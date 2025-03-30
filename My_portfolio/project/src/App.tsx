@@ -12,7 +12,7 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: "EE-commerce Application",
+    title: "E-commerce Application",
     description: "A full-stack e-commerce platform",
     details: "Built a comprehensive e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, product management, cart functionality, and payment integration."
   },
@@ -20,7 +20,7 @@ const projects: Project[] = [
     id: 2,
     title: "M & S Project Webpage",
     description: "Corporate website development",
-    details: "Developed a responsive corporate website for M & S project using modern web technologies. Implemented dynamic content management and optimized performance."
+    details: "Developed a responsive corporate website for M && S project using modern web technologies. Implemented dynamic content management and optimized performance."
   }
 ];
 
