@@ -20,7 +20,7 @@ const projects: Project[] = [
     id: 2,
     title: "M & S Project Webpage",
     description: "Corporate website development",
-    details: "Developed a responsive corporate website for M && S project using modern web technologies. Implemented dynamic content management and optimized performance."
+    details: "Developed a responsive corporate website for M & S project using modern web technologies. Implemented dynamic content management and optimized performance."
   }
 ];
 
